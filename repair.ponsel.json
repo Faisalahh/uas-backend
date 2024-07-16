@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66967586aee85e46598e1cdc"
+  },
+  "nama": "ponsel",
+  "deskripsi": "ponsel Kualitas Bagus",
+  "harga": 50000
+},
+{
+  "_id": {
+    "$oid": "66967586aee85e46598e1cdd"
+  },
+  "nama": "lcd",
+  "deskripsi": "lcd Kualitas Bagus",
+  "harga": 70000
+},
+{
+  "_id": {
+    "$oid": "66967586aee85e46598e1cde"
+  },
+  "nama": "batrai",
+  "deskripsi": "batrai Kualitas Bagus",
+  "harga": 40000
+},
+{
+  "_id": {
+    "$oid": "66967586aee85e46598e1cdf"
+  },
+  "nama": "fleksibel",
+  "deskripsi": "fleksibel Kualitas Bagus",
+  "harga": 150000
+},
+{
+  "_id": {
+    "$oid": "66967586aee85e46598e1ce0"
+  },
+  "nama": "speaker",
+  "deskripsi": "speaker Kualitas Bagus",
+  "harga": 5000
+},
+{
+  "_id": {
+    "$oid": "66967586aee85e46598e1ce1"
+  },
+  "nama": "backdour",
+  "deskripsi": "backdour Kualitas Bagus",
+  "harga": 24000
+},
+{
+  "_id": {
+    "$oid": "66967586aee85e46598e1ce2"
+  },
+  "nama": "toucscren",
+  "deskripsi": "toucscren Kualitas Bagus",
+  "harga": 500
+}]
